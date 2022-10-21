@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Search
-permalink: /search/
+title: Publications
+permalink: /publications/
 ---
 
 <div id="search-container">
