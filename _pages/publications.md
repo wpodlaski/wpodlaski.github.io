@@ -16,6 +16,7 @@ PJ Gonçalves, JM Lueckmann, M Deistler, M Nonnenmacher, K Öcal, G Bassetto, C 
 
 - [Biological credit assignment through dynamic inversion of feedforward networks](https://proceedings.neurips.cc/paper/2020/hash/7261925973c9bf0a74d85ae968a57e5f-Abstract.html)\
 **WF Podlaski** & CK Machens. *NeurIPS*, 2020.
+[Click here for a short video explanation.](https://slideslive.com/38936653)
 
 - [Mapping the function of neuronal ion channels in model and experiment](https://elifesciences.org/articles/22152)\
 **WF Podlaski**\*, A Seeholzer\*, LN Groschner, R Ranjan, G Miesenboeck, & TP Vogels. *eLife*, 2017.
@@ -24,3 +25,9 @@ PJ Gonçalves, JM Lueckmann, M Deistler, M Nonnenmacher, K Öcal, G Bassetto, C 
 
 - [Context-modular memory networks support high-capacity, flexible, and robust associative memories](https://www.biorxiv.org/content/10.1101/2020.01.08.898528v1.abstract)\
 **WF Podlaski**, EJ Agnes, TP Vogels. *bioRxiv*, 2020.
+
+### In preparation
+
+- Universal function approximation in balanced spiking networks through convex-concave boundary composition\
+**WF Podlaski** & CK Machens. *In prep.,* 2022.
+[Click here for a recent talk that I gave on this topic.](https://www.youtube.com/watch?v=irxtUINGMWM)
