@@ -12,7 +12,7 @@ My research interests include various topics across biological and artificial in
 
 - Biologically-plausible deep learning
 
-	- [Click here](https://slideslive.com/38936653) for a video explanation of my 2020 NeuRIPS paper.
+	- [Click here](https://slideslive.com/38936653) for a video explanation of my 2020 NeuRIPS paper.\
 
 - Neural population analysis of calcium imaging and electrophysiology data
 - Models of learning and memory

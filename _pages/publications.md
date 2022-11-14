@@ -15,7 +15,7 @@ M Nardin, JW Phillips, **WF Podlaski**, & SW Keemink. *Peer Community Journal*, 
 PJ Gonçalves, JM Lueckmann, M Deistler, M Nonnenmacher, K Öcal, G Bassetto, C Chintaluri, **WF Podlaski**, SA Haddad, TP Vogels, DS Greenberg, JH Macke *eLife*, 2020.
 
 - [Biological credit assignment through dynamic inversion of feedforward networks](https://proceedings.neurips.cc/paper/2020/hash/7261925973c9bf0a74d85ae968a57e5f-Abstract.html)\
-**WF Podlaski** & CK Machens. *NeurIPS*, 2020.
+**WF Podlaski** & CK Machens. *NeurIPS*, 2020.\
 [Click here for a short video explanation.](https://slideslive.com/38936653)
 
 - [Mapping the function of neuronal ion channels in model and experiment](https://elifesciences.org/articles/22152)\
@@ -29,5 +29,5 @@ PJ Gonçalves, JM Lueckmann, M Deistler, M Nonnenmacher, K Öcal, G Bassetto, C 
 ### In preparation
 
 - Universal function approximation in balanced spiking networks through convex-concave boundary composition\
-**WF Podlaski** & CK Machens. *In prep.,* 2022.
+**WF Podlaski** & CK Machens. *In prep.,* 2022.\
 [Click here for a recent talk that I gave on this topic.](https://www.youtube.com/watch?v=irxtUINGMWM)
